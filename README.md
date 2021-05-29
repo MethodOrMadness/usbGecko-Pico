@@ -11,6 +11,12 @@ Currently, everything
 * Debug / Test
 * Create a writeup / documentation on how to build one
 
+# What can you do to help?
+Well, if you know Verilog, that is the main obstacle now
+
+If you have any PCB Design experience, that could also come in handy for when we get a prototype working
+
+If you have any ideas to contribute, open an issue or PR with any information
 
 # Credits
 Streetwalker on [GC-Forever][1] for the OG USB Gecko Clone
