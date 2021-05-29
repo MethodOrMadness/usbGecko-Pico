@@ -1,0 +1,19 @@
+NET exi_clk LOC = P18;
+NET exi_cs LOC = P19;
+NET exi_di LOC = P20;
+NET exi_do LOC = P21;
+
+NET usb_txe LOC = P2;
+NET usb_rxf LOC = P1;
+NET usb_pwren LOC = P36;
+NET usb_rd LOC = P34;
+NET usb_wr LOC = P33;
+
+NET usb_data(0) LOC = P44;
+NET usb_data(1) LOC = P41;
+NET usb_data(2) LOC = P42;
+NET usb_data(3) LOC = P37;
+NET usb_data(4) LOC = P43;
+NET usb_data(5) LOC = P39;
+NET usb_data(6) LOC = P38;
+NET usb_data(7) LOC = P40;
