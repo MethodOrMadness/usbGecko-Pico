@@ -10,3 +10,9 @@ Currently, everything
 * Adapt the Translated code to run on the pico
 * Debug / Test
 * Create a writeup / documentation on how to build one
+
+
+# Credits
+Streetwalker on [GC-Forever][1] for the OG USB Gecko Clone
+
+[1]: https://www.gc-forever.com/forums/viewtopic.php?f=26&t=3089
