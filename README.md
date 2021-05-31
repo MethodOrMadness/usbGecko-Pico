@@ -18,7 +18,11 @@ If you have any PCB Design experience, that could also come in handy for when we
 
 If you have any ideas to contribute, open an issue or PR with any information
 
+# Points of failure
+After some more research, it seems that a pico *could* be too slow to perform this task, but a faster microcontroller(like a [teensy 4.0][2], clocking in at 600mhz)
+
 # Credits
 Streetwalker on [GC-Forever][1] for the OG USB Gecko Clone
 
 [1]: https://www.gc-forever.com/forums/viewtopic.php?f=26&t=3089
+[2]: https://www.electronics-lab.com/new-teensy-4-0-fastest-dev-board-powered-arm-cortex-m7/
